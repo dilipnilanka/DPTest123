@@ -13,6 +13,7 @@ namespace GitProj
     {
         public static void Main(string[] args)
         {
+            var a = 12;
             CreateHostBuilder(args).Build().Run();
         }
 
