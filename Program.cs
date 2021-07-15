@@ -13,6 +13,7 @@ namespace GitProj
     {
         public static void Main(string[] args)
         {
+            //Test edit
             CreateHostBuilder(args).Build().Run();
         }
 
